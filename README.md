@@ -3,7 +3,7 @@ A new Flutter project to demonstrate Weather Forecast using MVVM architecture
 and BLoC state management.
 
 ## **Credentials**
-#### UserName: admin
+#### User Name: admin
 #### Password: Admin@123
 
 ## **Assignment Overview**
