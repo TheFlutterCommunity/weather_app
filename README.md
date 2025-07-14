@@ -32,7 +32,7 @@ For developing the Weather App, below main packages are used:
 
 
 # Demo
-<img height="720px" width="320px" src="https://github.com/TheFlutterCommunity/real_estate/blob/master/demo/gif/RealEstate.gif?raw=true"> 
+<img height="320px" width="140px" src="https://github.com/TheFlutterCommunity/weather_app/blob/main/demo/gif/weather-app-demo.gif?raw=true"> 
 
 # Android Screen
 <img height="480px" src="https://github.com/TheFlutterCommunity/weather_app/blob/main/demo/android/sign-in.png?raw=true"> 
