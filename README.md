@@ -16,7 +16,7 @@ For developing the Weather App, below main packages are used:
 *go_router*
 
 #### **API Communication**:
-*http retrofit, dio, build_runner, json_serializable, retrofit_generator*
+*http, retrofit, dio, build_runner, json_serializable, retrofit_generator*
 
 #### **Local Preferences**:
 *shared_preferences*
@@ -29,7 +29,6 @@ For developing the Weather App, below main packages are used:
 
 #### **Connectivity**:
 *connectivity_plus*
-
 
 
 # Demo
