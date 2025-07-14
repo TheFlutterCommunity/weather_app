@@ -66,8 +66,8 @@ as I have given a good amount of time to complete this assignment using best app
 Due to not having a proper design tool(Figma, others), I tried to extract information from the given pdf and tried to make it as similar as possible. 
 
 
-### Important
+## Important
 
-#### *Using the best approach, Assignment 1 took a good amount of time to complete and as I am working in a company with Sr. Technical Lead Position, it is difficult for me to spare much time from my free time so kindly review the assignment 1 and let me know if you still need assignment 2 for review. Post your confirmation, I will complete and share.* 
+*Using the best approach, Assignment 1 took a good amount of time to complete and as I am working in a company with Sr. Technical Lead Position, it is difficult for me to spare much time from my free time so kindly review the assignment 1 and let me know if you still need assignment 2 for review. Post your confirmation, I will complete and share.* 
 
-#### *It is not about pages like 1-2 pages or 3-4 pages for the assignment, If we use a good architecture, state management and best practices, it always take good time to build a mature system.*
+*It is not about pages like 1-2 pages or 3-4 pages for the assignment, If we use a good architecture, state management and best practices, it always take good time to build a mature system.*
