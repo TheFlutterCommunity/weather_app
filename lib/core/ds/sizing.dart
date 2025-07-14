@@ -81,6 +81,7 @@ double get borderRadius100 => 1.0;
 /// Constant
 const int k0 = 0;
 const int k1 = 1;
+const int k1Minus = -1;
 const int k2 = 2;
 const int k3 = 3;
 const int k4 = 4;

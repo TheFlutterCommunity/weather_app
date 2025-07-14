@@ -5,12 +5,8 @@ const String kAppName = 'WeatherApp';
 const String kAppFontEuclidCircularA = 'EuclidCircularA';
 
 /// Hardcoded User Details
-const int kUserIDValue = 101;
 const String kUserNameValue = 'admin';
 const String kPasswordValue = 'Admin@123';
-const String kUserEmailIdValue = 'admin@gmail.com';
-const String kTokenValue = '_TOKEN_1233';
-const String kMobileNoValue = '9794242024';
 
 /// Sign In Error Messages
 const String kInvalidCredentials = 'Invalid Credentials! Please try again.';

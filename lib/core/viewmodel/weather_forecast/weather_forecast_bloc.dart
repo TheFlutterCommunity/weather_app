@@ -21,6 +21,8 @@ class WeatherForecastBloc
     Emitter<WeatherForecastState> emit,
   ) {
     //TODO: Not implemented
+    //TODO: Fetch Connectivity
+    //TODO: Fetch Location
   }
 
   void _onFetchWeather(

@@ -83,12 +83,12 @@ class PrefsHelper {
 
   /// Get User ID
   Future<int> getUserId() async {
-    return getInt(keyUserId, -1);
+    return getInt(keyUserId, k1Minus);
   }
 
   /// Get User Name
   Future<String> getUserName() async {
-    return getString(keyUserName, '');
+    return getString(keyUserName, kEmptyString);
   }
 
   /// Get SignIn Status
