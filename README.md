@@ -2,12 +2,12 @@
 A new Flutter project to demonstrate Weather Forecast using MVVM architecture
 and BLoC state management.
 
-***
+___
 ## **Credentials**
 #### UserName: admin
 #### Password: Admin@123
 
-***
+___
 
 ## **Assignment Overview**
 In this assignment, I mainly focused on good Project architecture (that helps in project scalability and easy maintenance), state management, modularity, naming convention and optimizations etc.
@@ -37,18 +37,18 @@ For developing the Weather App, below main packages are used:
 #### **Connectivity**:
 *connectivity_plus*
 
-***
+___
 
 # Demo
 <img height="480px" width="220px" src="https://github.com/TheFlutterCommunity/weather_app/blob/main/demo/gif/weather-app-demo.gif?raw=true"/> 
 
-***
+___
 
 # Android Screen
 <img height="480px" src="https://github.com/TheFlutterCommunity/weather_app/blob/main/demo/android/sign-in.png?raw=true"> 
 <img height="480px" src="https://github.com/TheFlutterCommunity/weather_app/blob/main/demo/android/weather-forecast.png?raw=true"> 
 
-***
+___
 
 ## Note
 
@@ -71,7 +71,7 @@ as I have given a good amount of time to complete this assignment using best app
 
 Due to not having a proper design tool(Figma, others), I tried to extract information from the given pdf and tried to make it as similar as possible. 
 
-***
+___
 
 ### Important
 #### *Using the best approach, Assignment 1 took a good amount of time to complete and as I am working in a company with Sr. Technical Lead Position, it is difficult for me to spare much time from my free time so kindly review the assignment 1 and let me know if you still need assignment 2 for review. Post your confirmation, I will complete and share.* 
